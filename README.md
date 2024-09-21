@@ -24,6 +24,7 @@ Também estou aprendendo...
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" />
   <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+  <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
 <p></p>
 <br/>
