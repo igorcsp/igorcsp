@@ -3,7 +3,7 @@
 
 Estou cursando Análise e Desenvolvimento de Sistemas e estudando em paralelo tecnologicas voltadas para desenvolvimento web.
 
-![Top Langs](https://github-readme-stats-nu-seven-66.vercel.app/api/top-langs/?username=igorcsp&layout=compact)
+![Top Langs](https://github-readme-stats-nu-seven-66.vercel.app/api/top-langs/?username=igorcsp&theme=dark&show_icons=true&layout=compact)
 
 Tenho um bom conhecimento e estou me aprimorando nas seguintes tecnologias...
 <p></p>
